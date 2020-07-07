@@ -4,9 +4,9 @@
 456
 555
 
-<<<<<<< HEAD
+
 666
-=======
+
 
 dev lalalalal
 
@@ -17,5 +17,4 @@ dev lalalalal
 yuyya
 
 
-555
->>>>>>> dev
+
